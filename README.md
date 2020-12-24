@@ -1,1 +1,1 @@
-# SpringCloud-ConfigServer
+为了学习SpringCloud中的配置中心config-server
